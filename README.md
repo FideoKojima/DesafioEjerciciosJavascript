@@ -4,17 +4,6 @@
 
 Este proyecto es una recopilación de ejercicios prácticos en JavaScript que te ayudarán a mejorar tus habilidades en el lenguaje. Cada ejercicio se enfoca en diferentes aspectos de la programación con JavaScript, como la manipulación del DOM, la interacción con el usuario y el uso de eventos.
 
-## Estructura del Proyecto
-
-La estructura de carpetas y archivos es la siguiente:
-
-├── index.html # Página principal del proyecto <br>
-├── css/ <br>
-        │ ── styles.css # Archivo de estilos <br>
-├── ejercicio1.html # Ejercicio 1: Formulario de Contacto <br>
-├── ejercicio2.html # Ejercicio 2: Paleta de Colores <br>
-└── ejercicio3.html # Ejercicio 3: Calculadora Básica
-
 ### Descripción de los Ejercicios
 
 1. **Ejercicio 1: Formulario de Contacto**
@@ -42,6 +31,6 @@ Para ejecutar este proyecto, solo necesitas un navegador web moderno. No se requ
 ## Autor
 
 Este proyecto fue desarrollado como parte de un desafío de programación en JavaScript por. <br>
-# Luis Suarez
+[Luis Suarez] (https://github.com/FideoKojima)
 
 
