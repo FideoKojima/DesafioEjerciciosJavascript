@@ -1,6 +1,6 @@
 # Proyecto - Desafío: JavaScript en Práctica
 
--  [Enlace Rapido al Desafio](https://desafio-ejercicios-javascript.vercel.app/)
+-  [Enlace Directo al Desafio](https://desafio-ejercicios-javascript.vercel.app/)
 
 Este proyecto es una recopilación de ejercicios prácticos en JavaScript que te ayudarán a mejorar tus habilidades en el lenguaje. Cada ejercicio se enfoca en diferentes aspectos de la programación con JavaScript, como la manipulación del DOM, la interacción con el usuario y el uso de eventos.
 
