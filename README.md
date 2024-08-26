@@ -12,7 +12,8 @@ La estructura de carpetas y archivos es la siguiente:
 ├── index.html            # Página principal del proyecto
 
 ├── css
-│   └── styles.css        # Archivo de estilos
+│   
+    └── styles.css        # Archivo de estilos
 
 ├── ejercicio1.html       # Ejercicio 1: Formulario de Contacto
 
