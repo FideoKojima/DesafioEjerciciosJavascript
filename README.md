@@ -8,18 +8,7 @@ Este proyecto es una recopilación de ejercicios prácticos en JavaScript que te
 
 La estructura de carpetas y archivos es la siguiente:
 
-.
-├── index.html            # Página principal del proyecto
-
-├── css
-│   
-    └── styles.css        # Archivo de estilos
-
-├── ejercicio1.html       # Ejercicio 1: Formulario de Contacto
-
-├── ejercicio2.html       # Ejercicio 2: Paleta de Colores
-
-└── ejercicio3.html       # Ejercicio 3: Calculadora Básica
+. ├── index.html # Página principal del proyecto ├── css/ │ └── styles.css # Archivo de estilos ├── ejercicio1.html # Ejercicio 1: Formulario de Contacto ├── ejercicio2.html # Ejercicio 2: Paleta de Colores └── ejercicio3.html # Ejercicio 3: Calculadora Básica
 
 ### Descripción de los Ejercicios
 
@@ -47,7 +36,7 @@ Para ejecutar este proyecto, solo necesitas un navegador web moderno. No se requ
 
 ## Autor
 
-Este proyecto fue desarrollado como parte de un desafío de programación en JavaScript. <br>
-# Por Luis Suarez
+Este proyecto fue desarrollado como parte de un desafío de programación en JavaScript por. <br>
+# Luis Suarez
 
 
