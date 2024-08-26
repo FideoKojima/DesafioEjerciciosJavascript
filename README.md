@@ -1,6 +1,6 @@
 # Proyecto - Desafío: JavaScript en Práctica
 
-- Enlace: [Enlace Rapido al Desafio](https://desafio-ejercicios-javascript.vercel.app/)
+-  [Enlace Rapido al Desafio](https://desafio-ejercicios-javascript.vercel.app/)
 
 Este proyecto es una recopilación de ejercicios prácticos en JavaScript que te ayudarán a mejorar tus habilidades en el lenguaje. Cada ejercicio se enfoca en diferentes aspectos de la programación con JavaScript, como la manipulación del DOM, la interacción con el usuario y el uso de eventos.
 
@@ -10,10 +10,14 @@ La estructura de carpetas y archivos es la siguiente:
 
 .
 ├── index.html            # Página principal del proyecto
+
 ├── css
 │   └── styles.css        # Archivo de estilos
+
 ├── ejercicio1.html       # Ejercicio 1: Formulario de Contacto
+
 ├── ejercicio2.html       # Ejercicio 2: Paleta de Colores
+
 └── ejercicio3.html       # Ejercicio 3: Calculadora Básica
 
 ### Descripción de los Ejercicios
