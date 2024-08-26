@@ -1,8 +1,11 @@
-Proyecto - Desafío: JavaScript en Práctica
+# Proyecto - Desafío: JavaScript en Práctica
+
+- Enlace: [Enlace Rapido al Desafio](https://desafio-ejercicios-javascript.vercel.app/)
 
 Este proyecto es una recopilación de ejercicios prácticos en JavaScript que te ayudarán a mejorar tus habilidades en el lenguaje. Cada ejercicio se enfoca en diferentes aspectos de la programación con JavaScript, como la manipulación del DOM, la interacción con el usuario y el uso de eventos.
 
-Estructura del Proyecto
+## Estructura del Proyecto
+
 La estructura de carpetas y archivos es la siguiente:
 
 .
@@ -13,32 +16,31 @@ La estructura de carpetas y archivos es la siguiente:
 ├── ejercicio2.html       # Ejercicio 2: Paleta de Colores
 └── ejercicio3.html       # Ejercicio 3: Calculadora Básica
 
-Descripción de los Ejercicios
+### Descripción de los Ejercicios
 
-Ejercicio 1: Formulario de Contacto
+1. **Ejercicio 1: Formulario de Contacto**
+   - Enlace: [Formulario de Contacto](https://desafio-ejercicios-javascript.vercel.app/ejercicio1.html)
+   - Descripción: Implementa un formulario de contacto básico con validación de campos.
 
-Enlace: Formulario de Contacto
-Descripción: Implementa un formulario de contacto básico con validación de campos.
+2. **Ejercicio 2: Paleta de Colores**
+   - Enlace: [Paleta de Colores](https://desafio-ejercicios-javascript.vercel.app/ejercicio2.html)
+   - Descripción: Permite al usuario seleccionar colores y ver la combinación resultante en tiempo real.
 
-Ejercicio 2: Paleta de Colores
+3. **Ejercicio 3: Calculadora Básica**
+   - Enlace: [Calculadora Básica](https://desafio-ejercicios-javascript.vercel.app/ejercicio3.html)
+   - Descripción: Una calculadora sencilla para realizar operaciones matemáticas básicas.
 
-Enlace: Paleta de Colores
-Descripción: Permite al usuario seleccionar colores y ver la combinación resultante en tiempo real.
+## Requisitos
 
-Ejercicio 3: Calculadora Básica
-
-Enlace: Calculadora Básica
-Descripción: Una calculadora sencilla para realizar operaciones matemáticas básicas.
-Requisitos
 Para ejecutar este proyecto, solo necesitas un navegador web moderno. No se requieren instalaciones adicionales.
 
-Uso
+## Uso
 
-Clona este repositorio en tu máquina local.
-Abre el archivo index.html en tu navegador.
-Explora los diferentes ejercicios haciendo clic en los enlaces proporcionados.
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo `index.html` en tu navegador.
+3. Explora los diferentes ejercicios haciendo clic en los enlaces proporcionados.
 
-Autor
+## Autor
 
 Este proyecto fue desarrollado como parte de un desafío de programación en JavaScript.
 
