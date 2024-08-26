@@ -31,6 +31,4 @@ Para ejecutar este proyecto, solo necesitas un navegador web moderno. No se requ
 ## Autor
 
 Este proyecto fue desarrollado como parte de un desafío de programación en JavaScript por. <br>
-[Luis Suarez] (https://github.com/FideoKojima)
-
-
+[Luis Suarez](https://github.com/FideoKojima)
